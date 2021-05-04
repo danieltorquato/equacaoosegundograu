@@ -1,0 +1,157 @@
+h1 {
+    text-align: center;
+}
+
+p.desc {
+
+    text-align: center;
+}
+
+input.edit {
+    border: none;
+    width: 20px;
+}
+
+input.edit0 {
+    border: none;
+    width: 25px;
+}
+
+input.editc {
+    border: none;
+    width: 55px;
+}
+
+div.inputsa {
+
+    border: black solid;
+    position: relative;
+    top: -35px;
+    left: 125px;
+    width: 60px;
+}
+
+div.inputsb {
+
+    border: black solid;
+    position: relative;
+    top: -35px;
+    left: 125px;
+    width: 60px;
+}
+
+div.inputsbdiv {
+    position: relative;
+    top: -35px;
+}
+
+div.inputsc {
+
+    border: black solid;
+    position: relative;
+    top: -35px;
+    left: 125px;
+    width: 60px;
+
+}
+
+div.inputscdiv {
+    position: relative;
+    top: -75px;
+
+}
+
+div.geralres {
+
+    width: 800px;
+    height: 570px;
+    background-color: darkgrey;
+    position: relative;
+    left: 24%;
+    bottom: 500px;
+    border: solid black;
+}
+
+div.resultado {
+    background-color: darkkhaki;
+    width: 780px;
+    height: 500px;
+    position: relative;
+    left: 1%;
+    border: black solid;
+    border-radius: 10px;
+    font: normal 17px cursive;
+    float: left;
+
+}
+
+div.resultadod {
+
+    width: 220px;
+    height: 500px;
+    position: relative;
+    left: -250px;
+    top: -500px;
+    font: normal 17px cursive;
+    float: right;
+    border-left: black solid;
+    border-right: black solid;
+    text-align: center;
+}
+
+input.botaocalc {
+    background-color: blueviolet;
+    border-radius: 5px;
+    position: relative;
+    left: 55px;
+    font: normal 15px cursive;
+    bottom: 15px;
+    cursor: pointer;
+}
+
+div.bginputs {
+    background-color: burlywood;
+    width: 250px;
+    position: relative;
+    top: 0px;
+    height: 200px;
+    border-radius: 10px;
+    border: black solid;
+}
+
+div.inputsgeral {
+    position: relative;
+    top: -320px;
+    left: 30px;
+    margin: none;
+    font: normal 13px cursive;
+}
+
+div.inputsborda {
+
+    border: solid black;
+    width: 200px;
+    height: 120px;
+    position: relative;
+    top: 125px;
+    right: 5px;
+}
+
+div.parte1 {
+
+    width: 280px;
+    text-align: center;
+}
+
+div.resultadod1 {
+
+    width: 220px;
+    height: 500px;
+    position: relative;
+    left: 200px;
+    top: -500px;
+    font: normal 17px cursive;
+    float: right;
+
+    text-align: center;
+}
