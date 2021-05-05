@@ -404,3 +404,5 @@ calcularResultado = () => {
     else
         window.alert('Insira os números corretamente')
 }
+botao = document.getElementById('but')
+botao.addEventListener("click", calcularResultado)
